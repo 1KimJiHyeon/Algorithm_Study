@@ -56,6 +56,12 @@
     * 강한결합요소, 네트워크 플로우, 이분매칭
   * 10.28
     * 복습(각자 백준에서 3 문제를 풀어서 미팅때 오면, 각자 풀었던 문제를 다같이 풀어보며서 배웠던 내용에 대해 복습겸 부족한 파트 점검)
+  * 10.30
+    * 복습(각자 백준에서 3 문제를 풀어서 미팅때 오면, 각자 풀었던 문제를 다같이 풀어보며서 배웠던 내용에 대해 복습겸 부족한 파트 점검)
+  * 11.1
+    * 복습(각자 백준에서 3 문제를 풀어서 미팅때 오면, 각자 풀었던 문제를 다같이 풀어보며서 배웠던 내용에 대해 복습겸 부족한 파트 점검)
+  * 11.4
+    * 프로그래머스 실력체크 문제를 통해 얼마나 실력이 상승 되었는지 확인
 
 ---
 
@@ -64,7 +70,16 @@
   * 강의 링크
     * [ 동빈나 - 실전 알고리즘 강좌 ] https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz
     * [ 인프런 - 영리한 프로그래밍을 위한 알고리즘 강좌 ] https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C
+    * [ 이것이 코딩 테스트다 with Python ] https://www.youtube.com/watch?v=Gj7s-Nrt1xE&t=352s
     
   * 알고리즘 테스트 링크
      * [ 백준 알고리즘 ] https://www.acmicpc.net/
      * [ 프로그래머스 - 스킬 체크 ] https://programmers.co.kr/skill_checks
+
+  * 기타 링크
+     * [ 토크ON세미나 - 기초 알고리즘과 파이썬 코딩 ] https://www.youtube.com/watch?v=DVAainlafRk&t=521s
+     * [ 프로그래머스 - 스킬 체크 ] https://programmers.co.kr/skill_checks
+     * [ 이것이 코딩 테스트다 with Python - 정리본 ] https://freedeveloper.tistory.com/392
+     * [ 백준 문제 풀이 참고 ] https://bbbyung2.tistory.com/84
+
+
